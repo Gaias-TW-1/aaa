@@ -1,4 +1,6 @@
 abcdef
 123456
 !@#$
-GGG
+
+test
+gg
